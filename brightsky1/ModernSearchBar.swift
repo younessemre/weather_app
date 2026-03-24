@@ -1,5 +1,5 @@
 import UIKit
-
+//ModernSearchBar
 class ModernSearchBar: UIStackView {
     
     let searchTextField = UITextField()
