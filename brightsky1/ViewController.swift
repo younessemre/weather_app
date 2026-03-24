@@ -58,7 +58,7 @@ class ViewController: UIViewController {
                 self.weatherImageView.image = UIImage(systemName: data.conditionName)
             }
         }
-        // API'den gelen veriyi yatay ve dikey iki liste olarak görünmesini sağlar
+        // API'den gelen veriyi yatay ve dikey listelerin içeriğini düzenler
         weatherManager.onForecastUpdated = { list in
             DispatchQueue.main.async{
                 self.forecastList = list.filter { item in
