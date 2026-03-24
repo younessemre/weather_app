@@ -1,5 +1,5 @@
 import Foundation
-
+//WeatherData
 struct WeatherData: Codable{
     let name: String
     let main: MainWeather
