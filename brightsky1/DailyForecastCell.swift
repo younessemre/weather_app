@@ -1,5 +1,5 @@
 import UIKit
-
+//DailyForecastCell
 class DailyForecastCell: UITableViewCell {
 
     // Kartın arka planı, gün yazısı, derece yazısı

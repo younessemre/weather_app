@@ -22,7 +22,8 @@ class ViewController: UIViewController {
     var weatherManager = WeatherManager()
     var forecastList : [ForecastItem] = []
     var dailyList: [ForecastItem] = []
-    
+
+    // PR için eklendi
     override func viewDidLoad() {
         super.viewDidLoad()
         print("👉 ViewController çalıştı!")
