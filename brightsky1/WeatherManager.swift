@@ -1,5 +1,5 @@
 import Foundation
-
+//WeatherManager
 struct WeatherManager{
     
     let apiKey = "1545d199f9755e18fd5b5cc2b0791d29"
