@@ -1,5 +1,5 @@
 import UIKit
-
+//HourlyForecastCellCollectionViewCell
 class HourlyForecastCell: UICollectionViewCell {
     
     // Kartın içindeki nesneler saat, sıcaklık ve ikon
