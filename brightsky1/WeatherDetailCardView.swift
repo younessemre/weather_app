@@ -1,5 +1,5 @@
 import UIKit
-
+//WeatherDetailCardView
 class WeatherDetailCardView: UIView {
     
     let titleLabel = UILabel()
